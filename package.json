@@ -30,14 +30,14 @@
     "projects": {
       "chrome": {
         "dir": "src",
-        "tag": "90.0.4430.11",
+        "tag": "91.0.4433.1",
         "repository": {
           "url": "https://github.com/chromium/chromium"
         }
       },
       "brave-core": {
         "dir": "src/brave",
-        "branch": "cr90",
+        "branch": "cr91",
         "repository": {
           "url": "https://github.com/brave/brave-core.git"
         }
